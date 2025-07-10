@@ -1,3 +1,5 @@
-BLOCK TWITCH ADS
+Nota: poner twitch.tv##+js(twitch-videoad) en la configuración de ublock en el apartado de "mis reglas"
+
+
 
 
